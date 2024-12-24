@@ -5,8 +5,8 @@ let account;
 let memeToken;
 
 
-const gameContractAddress = '0xe378cfDCb160F033F4a9bD8b93EBf0fF0A8a88bE'; // Your game contract address
-const memeTokenAddress = '0x07466626954Ec7383F8A61d536756773ef0e4bA3'; // Your meme token address
+const gameContractAddress = '0x08c91289d8b3c162FD9223C4d4eD7E3dBa0dD3D8'; // Your game contract address
+const memeTokenAddress = '0xe22563d75B416E016d91d9182C815585b56F5ADA'; // Your meme token address
 
 // ABIs
 const gameContractABI = [
