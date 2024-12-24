@@ -53,6 +53,15 @@ The game interface is built with **HTML, CSS, and JavaScript**, providing an eng
 
 ---
 
+## Images
+![1A](https://github.com/user-attachments/assets/2518f8d4-e9fe-458b-b2f1-fd9f4fee84d9)
+![1](https://github.com/user-attachments/assets/51096d70-1136-4027-9631-dc54e319e9fb)
+![2](https://github.com/user-attachments/assets/bcd0501c-ad3d-4f1c-bb4c-e1d06e83fc22)
+![3](https://github.com/user-attachments/assets/8fb0bcf3-13af-4f42-bcd0-6bcd137bc16f)
+
+
+---
+
 ## Getting Started
 1. **Clone the Repository**: Download the source code to your local machine.
 2. **Deploy the Contract**: Use the provided Solidity contract to deploy on the **Neo X Testnet T4**.
