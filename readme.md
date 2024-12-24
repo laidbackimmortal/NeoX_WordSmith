@@ -15,13 +15,13 @@ WordSmith is a decentralized blockchain-powered word-guessing game where players
 ## Contract Details
 - **Token Name**: TheMythicToken ($TMT$)
 - **Network**: Neo X Testnet T4
-- **Contract Address**: 0xe378cfDCb160F033F4a9bD8b93EBf0fF0A8a88bE
-- **TMT Token Contract Address**: 0x07466626954Ec7383F8A61d536756773ef0e4bA3
+- **Contract Address**: 0x08c91289d8b3c162FD9223C4d4eD7E3dBa0dD3D8
+- **TMT Token Contract Address**: 0xe22563d75B416E016d91d9182C815585b56F5ADA
 
 ---
 
 ## Deployment
-- **Contract Address**: [View](https://xt4scan.ngd.network/address/0x07466626954Ec7383F8A61d536756773ef0e4bA3)
+- **Contract Address**: [View](https://xt4scan.ngd.network/address/0x08c91289d8b3c162FD9223C4d4eD7E3dBa0dD3D8)
 - **Coin Used**: GAS
 
 ---
